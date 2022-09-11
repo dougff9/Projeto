@@ -1,0 +1,15 @@
+C:\workspace\dotnet-bootcamp\Projeto_1\bin\Debug\net6.0\Projeto_1.exe
+C:\workspace\dotnet-bootcamp\Projeto_1\bin\Debug\net6.0\Projeto_1.deps.json
+C:\workspace\dotnet-bootcamp\Projeto_1\bin\Debug\net6.0\Projeto_1.runtimeconfig.json
+C:\workspace\dotnet-bootcamp\Projeto_1\bin\Debug\net6.0\Projeto_1.dll
+C:\workspace\dotnet-bootcamp\Projeto_1\bin\Debug\net6.0\Projeto_1.pdb
+C:\workspace\dotnet-bootcamp\Projeto_1\obj\Debug\net6.0\Projeto_1.csproj.AssemblyReference.cache
+C:\workspace\dotnet-bootcamp\Projeto_1\obj\Debug\net6.0\Projeto_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\dotnet-bootcamp\Projeto_1\obj\Debug\net6.0\Projeto_1.AssemblyInfoInputs.cache
+C:\workspace\dotnet-bootcamp\Projeto_1\obj\Debug\net6.0\Projeto_1.AssemblyInfo.cs
+C:\workspace\dotnet-bootcamp\Projeto_1\obj\Debug\net6.0\Projeto_1.csproj.CoreCompileInputs.cache
+C:\workspace\dotnet-bootcamp\Projeto_1\obj\Debug\net6.0\Projeto_1.dll
+C:\workspace\dotnet-bootcamp\Projeto_1\obj\Debug\net6.0\refint\Projeto_1.dll
+C:\workspace\dotnet-bootcamp\Projeto_1\obj\Debug\net6.0\Projeto_1.pdb
+C:\workspace\dotnet-bootcamp\Projeto_1\obj\Debug\net6.0\Projeto_1.genruntimeconfig.cache
+C:\workspace\dotnet-bootcamp\Projeto_1\obj\Debug\net6.0\ref\Projeto_1.dll
